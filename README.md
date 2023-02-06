@@ -26,3 +26,5 @@ ca nhiễm và tử vong ở Ontario.
 8. Xây dựng đồ thị/ biểu đồ cho các bảng thống kê ở trên. 
 9. [Data Visualization] Dùng regional map để biểu diễn trực quan (bằng màu sắc) số
 lượng ca nhiễm, số ca tử vong ở các vùng trong năm. Ví dụ tham khảo:
+
+Công nghệ sử dụng: SSAS, SSIS, MSSQL SEVER, Tableau
